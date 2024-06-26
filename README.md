@@ -1,4 +1,4 @@
-# sqlite_flutter_crud
+# flutter recipe app
 
 A new Flutter project.
 
